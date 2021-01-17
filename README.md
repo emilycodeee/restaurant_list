@@ -22,7 +22,7 @@ npm run dev
 ```
 **4. 終端機出現下列字串代表伺服器成功啟動**
 
-* Express is listening on http://localhost:3000 *
+Express is listening on http://localhost:3000
 
 **5. 透過瀏覽器瀏覽專案**
 
