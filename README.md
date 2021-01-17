@@ -10,7 +10,7 @@ Node.js 10.15.0
   - 打開終端機輸入 git clone https://github.com/emilycodeee/restaurant_list.git
   - 點選 Download ZIP 下載
 
-**2. 進入專案資料夾使用終端機安裝相關套件**
+**2. 進入專案資料夾(restaurant_list)使用終端機安裝相關套件**
 
 ```
 npm install
