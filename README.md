@@ -20,11 +20,11 @@ npm install
 ```
 npm run dev
 ```
-終端機出現下列字串代表伺服器成功啟動
+4. 終端機出現下列字串代表伺服器成功啟動
 
 * Express is listening on http://localhost:3000 *
 
-4. 透過瀏覽器瀏覽專案
+5. 透過瀏覽器瀏覽專案
 
 打開瀏覽器在網址列輸入 localhost:3000 即可瀏覽
 
