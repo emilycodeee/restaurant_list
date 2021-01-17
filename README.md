@@ -10,13 +10,13 @@ Node.js 10.15.0
   - 打開終端機輸入 git clone https://github.com/emilycodeee/restaurant_list.git
   - 點選 Download ZIP 下載
 
-1. 進入專案資料夾使用終端機安裝相關套件
+2. 進入專案資料夾使用終端機安裝相關套件
 
 ```
 npm install
 ```
 
-1. 輸入指令，啟動專案伺服器
+3. 輸入指令，啟動專案伺服器
 ```
 npm run dev
 ```
@@ -24,7 +24,7 @@ npm run dev
 
 * Express is listening on http://localhost:3000 *
 
-1. 透過瀏覽器瀏覽專案
+4. 透過瀏覽器瀏覽專案
 
 打開瀏覽器在網址列輸入 localhost:3000 即可瀏覽
 
