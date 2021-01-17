@@ -7,10 +7,8 @@ Node.js 10.15.0
 ## 安裝與執行步驟 (installation and execution)
 
 1. 將本專案存放至本機(下列方法2擇1)
-
-  1. 打開終端機輸入 git clone https://github.com/emilycodeee/restaurant_list.git
-
-  1. 點選 Download ZIP 下載
+  - 打開終端機輸入 git clone https://github.com/emilycodeee/restaurant_list.git
+  - 點選 Download ZIP 下載
 
 1. 進入專案資料夾使用終端機安裝相關套件
 
